@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\Desktop\\gobab\\ProductsWebApiPD\\ProductsWebApiPD\\wwwroot\\images\\2cbffbl4.qh0.png",
+      "PackagePath": "staticwebassets\\images\\2cbffbl4.qh0.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\gobab\\ProductsWebApiPD\\ProductsWebApiPD\\wwwroot\\images\\geuuo43y.vpt.png",
+      "PackagePath": "staticwebassets\\images\\geuuo43y.vpt.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\gobab\\ProductsWebApiPD\\ProductsWebApiPD\\wwwroot\\images\\mqz530sr.ybs.png",
+      "PackagePath": "staticwebassets\\images\\mqz530sr.ybs.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\gobab\\ProductsWebApiPD\\ProductsWebApiPD\\wwwroot\\images\\zvazwzys.r0z.png",
+      "PackagePath": "staticwebassets\\images\\zvazwzys.r0z.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProductsWebApiPD.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProductsWebApiPD.props",
+      "PackagePath": "build\\ProductsWebApiPD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProductsWebApiPD.props",
+      "PackagePath": "buildMultiTargeting\\ProductsWebApiPD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProductsWebApiPD.props",
+      "PackagePath": "buildTransitive\\ProductsWebApiPD.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
